@@ -158,8 +158,6 @@ padding:2em 0;
 	max-height: 50%;
 }
 
-
-
 .skillsTitle{
 	padding: 2em;
 }
@@ -169,6 +167,10 @@ padding:2em 0;
 }
 .descSkill{
 	padding-bottom: 1.5em;
+}
+
+.textExperience{
+padding-bottom: 2em;
 }
 
 @media screen and (max-width: 576px) {
